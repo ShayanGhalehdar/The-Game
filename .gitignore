@@ -1,0 +1,10 @@
+# C build artifacts
+*.o
+*.obj
+*.out
+*.dSYM/
+a.out
+
+# OS
+.DS_Store
+Thumbs.db
