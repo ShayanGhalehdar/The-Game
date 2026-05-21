@@ -31,7 +31,3 @@ gcc -O2 -Wall "The Game.c" -o the_game
 ```
 
 (Use the bundled `The Game.exe` on Windows to play without rebuilding.)
-
-## License
-
-MIT — see [LICENSE](LICENSE).
